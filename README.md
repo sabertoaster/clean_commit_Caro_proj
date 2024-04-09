@@ -9,7 +9,7 @@
 - Clean code application
 - Algorithms for bots (Bruteforce, Minimax, Heuristic ....)
 
-### Features of the application 
+### Key Features
 - Scenes:
   > Main menu (Animated) (I worked really hard on this, pls give me a subscribe)
   > <br>
